@@ -2,3 +2,7 @@
 @import url(./sukhvinder.css);
 @import url(./ashok.css);
 @import url(./ravi.css);
+
+.container {
+  max-width: 1140px !important;
+}

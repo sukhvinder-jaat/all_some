@@ -1,3 +1,58 @@
-.sdfcs {
-  display: flex;
+:root {
+  --fs-xsm: 12px;
+  --fs-sm: 13px;
+  --fs-md: 14px;
+  --fs-lg: 16px;
+  --fs-xl: 17px;
+  --fs-2xl: 18px;
+  --fs-3xl: 19px;
+  --fs-4xl: 20px;
+  --fs-5xl: 32px;
+  --fs-6xl: 40px;
+  --fs-7xl: 52px;
+  --fs-8xl: 64px;
+  --fs-9xl: 72px;
+  --fs-10xl: 84px;
+}
+.fs_xsm{
+  font-size: var(--fs-xsm);
+}
+.fs_sm{
+  font-size: var(--fs-sm);
+}
+.fs_md{
+  font-size: var(--fs-md);
+}
+.fs_lg{
+  font-size: var(--fs-lg);
+}
+.fs_xl{
+  font-size: var(--fs-xl);
+}
+.fs_2xl{
+  font-size: var(--fs-2xl);
+}
+.fs_3xl{
+  font-size: var(--fs-3xl);
+}
+.fs_4xl{
+  font-size: var(--fs-4xl);
+}
+.fs_5xl{
+  font-size: var(--fs-5xl);
+}
+.fs_6xl{
+  font-size: var(--fs-6xl);
+}
+.fs_7xl{
+  font-size: var(--fs-7xl);
+}
+.fs_8xl{
+  font-size: var(--fs-8xl);
+}
+.fs_9xl{
+  font-size: var(--fs-9xl);
+}
+.fs_10xl{
+  font-size: var(--fs-10xl);
 }
