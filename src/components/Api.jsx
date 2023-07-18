@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import api from "../assets/img/png/api.png";
+import { Btnblack } from "./Btnblack";
 const Api = () => {
   return (
     <>
@@ -10,7 +11,7 @@ const Api = () => {
             <Col md={6}>
               <h3 className="ff_kanit fs_8xl fw_600 text-black lh-1">
                 API & <br />
-                <span className="clr_green intergrations_lines position-relative">
+                <span className="color_green intergrations_lines position-relative">
                   Integrations
                 </span>
               </h3>
@@ -18,9 +19,7 @@ const Api = () => {
                 Connect AllSome to your e-commerce stores, delivery
                 <span className="d-lg-block">partners, service providers and more.</span>
               </p>
-              <button className="ff_inter fw_600 fs_lg border-0 bg-black px-4 py-2 rounded-pill text-white">
-                View integration guide
-              </button>
+              <Btnblack textwhite="View integration guide"/>
             </Col>
             <Col md={6}>
               <div className="position_lg_absolute end-0 top-0 max_width_741 my-4">
