@@ -117,3 +117,13 @@
 .fw_900 {
   font-weight: 900;
 }
+/* color  */
+.color_black{
+  color: #000000;
+}
+.bg_sky_blue{
+  background: #DFF6F1;
+}
+.color_green{
+  color: #00C934;
+}
