@@ -1,24 +1,38 @@
 /* background images  */
-.sell_shoper_box_bg{
-    background-image: url("../src/assets/img/png/sell-shoper-bg.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.sell_shoper_box_bg {
+  background-image: url("../src/assets/img/png/sell-shoper-bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /* padding  */
-.pt_37{
-    padding-top: 37px;
+.pt_37 {
+  padding-top: 37px;
 }
-.pb_37{
-    padding-bottom: 37px;
+.pb_37 {
+  padding-bottom: 37px;
 }
-.sell_shoper_padding{
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 22px;
-    padding-bottom: 42px;
+.pl_14{
+    padding-left: 14px;
+}.pl_23{
+    padding-left: 23px;
+}
+.sell_shoper_padding {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 22px;
+  padding-bottom: 42px;
 }
 /* line height  */
-.lh_normal{
-    line-height: normal;
+.lh_normal {
+  line-height: normal;
+}
+
+/* border radius  */
+.br_16 {
+  border-radius: 16px;
+}
+/* opacity */
+.opacity_08 {
+  opacity: 0.800000011920929;
 }
